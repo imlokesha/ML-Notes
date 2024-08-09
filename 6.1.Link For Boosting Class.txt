@@ -1,0 +1,27 @@
+Ada Boosting
+INeuron link - https://www.youtube.com/watch?v=5t9M-0ZAbpE&feature=youtu.be
+KNYT - https://www.youtube.com/watch?v=NLRO1-jp5F8&t=83s
+StatsQuest - https://www.youtube.com/watch?v=LsK-xG1cLYA
+
+Gradient Boosting
+Gradient Boosting Regression - StatsQuest
+link1 - https://www.youtube.com/watch?v=3CC4N4z3GJc
+link2 - https://www.youtube.com/watch?v=2xudPOBz-vs
+
+Gradient Boosting Classification- StatsQuest
+link1 - https://www.youtube.com/watch?v=jxuNLH5dXCs
+link2 - https://www.youtube.com/watch?v=StWY5QWMXCw
+
+XGBoost(XTREME GRADIENT BOOSTING)
+KNYT
+XGBoost Regression - https://www.youtube.com/watch?v=w-_vmVfpssg
+XGBoost Classification - https://www.youtube.com/watch?v=gPciUPwWJQQ
+                                  
+StatsQuest
+XGBoost Regression - https://www.youtube.com/watch?v=OtD8wVaFm6E
+XGBoost Classification - https://www.youtube.com/watch?v=8b1JEDvenQU
+
+XGBoost Optimazations (Must Watch) - https://www.youtube.com/watch?v=oRrKeUCEbq8
+
+XGBost Start to end (hyperparameter tuning)
+must watch - https://www.youtube.com/watch?v=GrJP9FLV3FE&t=832s
